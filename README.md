@@ -22,5 +22,4 @@ Additional SublimeLinter-miniwdl settings:
 
 |Setting|Description    |
 |:------|:--------------|
-|foo    |Something.     |
-|bar    |Something else.|
+|       |               |
